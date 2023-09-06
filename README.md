@@ -1,2 +1,2 @@
 # xnetforward
-net forward
+简单的网络转发程序，主要是将服务器的真实地址隐藏
